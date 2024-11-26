@@ -1,0 +1,73 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Library/
+
+# ======================================== #
+# Visual Studio / MonoDevelop generated    #
+# ======================================== #
+Export/ 
+obj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln.docstates
+
+# ========================= #
+# OS generated files        #
+# ========================= #
+.DS_Store
+Thumbs.db
+ehthumbs.db
+*.tmp
+*.bak
+*.swp
+*.cache
+*.lock
+*.log
+*.tmp
+*.temp
+*.TMP
+*.Temp
+*.OLD
+*.orig
+*~
+
+# ========================= #
+# Build results             #
+# ========================= #
+Builds/
+Assets/StreamingAssets/Audio/*.*
+
+# ========================= #
+# Miscellaneous             #
+# ========================= #
+/.*.sln.files
+*.unitypackage
+*.dae.meta
+*.FBX.meta
+*.mat
+*.prefab
+*.a
+*.apk
+*.app
+*.exe
+*.ipdb
+*.pdb
+*.dll
+*.xcodeproj/
+*.xcworkspace/
+
+# =============== #
+# External         #
+# =============== #
+/[Ee]xternal/
+/ThirdParty/
+
+# ========================= #
+# Version control           #
+# ========================= #
+/.vscode/
